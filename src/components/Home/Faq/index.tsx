@@ -4,30 +4,30 @@ import Image from 'next/image';
 import React, { useState } from 'react';
 
 const faqData = [
-    {
-        question: "What is Great Syria?",
-        answer: "Great Syria is a digital platform that provides web development, educational solutions, and modern technology services.",
-    },
-    {
-        question: "Is Crypgo available worldwide?",
-        answer: "Yes, Crypgo is accessible from most countries around the globe.",
-    },
-    {
-        question: "Which cryptocurrencies are supported on Crypgo?",
-        answer: "We support Bitcoin, Ethereum, Litecoin, and many more. Over 100 cryptocurrencies are available.",
-    },
-    {
-        question: "Is my personal information secure with Crypgo?",
-        answer: "Yes, we prioritize your security with advanced encryption and compliance protocols.",
-    },
-    {
-        question: "Do you work with businesses and individuals?",
-        answer: "Yes, Great Syria collaborates with startups, NGOs, educators, and individuals to create tailored digital solutions.",
-    },
-    {
-        question: "Does Crypgo offer advanced trading tools?",
-        answer: "Yes, Crypgo provides charts, APIs, and tools suitable for both beginners and professionals.",
-    },
+  {
+    question: "What services do you provide?",
+    answer: "We design and develop modern websites and mobile applications tailored to your business needs.",
+  },
+  {
+    question: "Do you create custom designs?",
+    answer: "Yes, all our designs are fully customized to reflect your brand identity and goals.",
+  },
+  {
+    question: "Will my website work on all devices?",
+    answer: "Absolutely. All our websites and applications are fully responsive and work perfectly on all devices.",
+  },
+  {
+    question: "Do you ensure quality and smooth delivery?",
+    answer: "We focus on delivering high-quality projects with a smooth and professional workflow from start to finish.",
+  },
+  {
+    question: "Can you add special features to my project?",
+    answer: "Yes, we can integrate features such as contact forms, payment systems, WhatsApp, and third-party services.",
+  },
+  {
+    question: "Do you help with hosting and domain setup?",
+    answer: "Yes, we assist with choosing hosting, connecting the domain, and launching your project online.",
+  },
 ];
 
 
